@@ -18,7 +18,7 @@ Este projeto é uma aplicação web construída com React que permite aos usuár
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/alessaocarvalho/corretoras-e-cep.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
