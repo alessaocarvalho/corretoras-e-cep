@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/corretoras-e-cep/static/css/main.e6c13ad2.css",
+    "main.js": "/corretoras-e-cep/static/js/main.f2613eec.js",
+    "static/js/453.d0860da7.chunk.js": "/corretoras-e-cep/static/js/453.d0860da7.chunk.js",
+    "index.html": "/corretoras-e-cep/index.html",
+    "main.e6c13ad2.css.map": "/corretoras-e-cep/static/css/main.e6c13ad2.css.map",
+    "main.f2613eec.js.map": "/corretoras-e-cep/static/js/main.f2613eec.js.map",
+    "453.d0860da7.chunk.js.map": "/corretoras-e-cep/static/js/453.d0860da7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f2613eec.js"
+  ]
+}
